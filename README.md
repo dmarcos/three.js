@@ -8,6 +8,10 @@ three.js
 [![Dev Dependencies][dev-dependencies]][dev-dependencies-url]
 [![Language Grade][lgtm]][lgtm-url]
 
+#### Super THREE ####
+
+Supermedium fork of THREE.js. Used to temporarly distribute fixes and enhancements in between official releases of THREE.js
+
 #### JavaScript 3D library ####
 
 The aim of the project is to create an easy to use, lightweight, 3D library with a default WebGL renderer. The library also provides Canvas 2D, SVG and CSS3D renderers in the examples.
